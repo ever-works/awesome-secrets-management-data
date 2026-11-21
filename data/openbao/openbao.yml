@@ -1,0 +1,12 @@
+name: "OpenBao"
+description: "OpenBao is a community-driven fork of HashiCorp Vault maintaining the MPL license after Vault's license change. It provides the same dynamic secrets and encryption capabilities for self-hosted environments. Suitable for teams wanting a fully open-source Vault alternative."
+source_url: "https://openbao.org/"
+category: "Open-Source Vaults"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "dynamic-secrets"
+icon_url: "https://icons.duckduckgo.com/ip3/openbao.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://openbao.org/>\n- Repository: <https://github.com/openbao/openbao>\n\nLicense: MPL-2.0.\n"
+updated_at: "2026-11-21 05:06"

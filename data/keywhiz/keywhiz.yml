@@ -1,0 +1,13 @@
+name: "Keywhiz"
+description: "Keywhiz is an open-source secret management and distribution system from Square. It provides a server and CLI for storing and serving secrets with audit logging and ACLs. Designed for self-hosted deployment in microservice architectures."
+source_url: "https://github.com/square/keywhiz"
+category: "Open-Source Vaults"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "audit-logging"
+  - "microservices"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/square/keywhiz>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 05:06"

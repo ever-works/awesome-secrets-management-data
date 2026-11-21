@@ -1,0 +1,64 @@
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: dynamic-secrets
+  name: "Dynamic Secrets"
+- id: free-plan
+  name: "Free Plan"
+- id: freemium
+  name: "Freemium"
+- id: gitops
+  name: "GitOps"
+- id: paid
+  name: "Paid"
+- id: ci-cd
+  name: "CI/CD"
+- id: kubernetes
+  name: "Kubernetes"
+- id: rotation
+  name: "Rotation"
+- id: hsm
+  name: "HSM"
+- id: certificates
+  name: "Certificates"
+- id: replication
+  name: "Replication"
+- id: audit-logging
+  name: "Audit Logging"
+- id: zero-knowledge
+  name: "Zero-Knowledge"
+- id: ai-powered
+  name: "AI-Powered"
+- id: pre-commit
+  name: "Pre-commit"
+- id: github-actions
+  name: "GitHub Actions"
+- id: policy-as-code
+  name: "Policy-as-Code"
+- id: privileged-access
+  name: "Privileged Access"
+- id: session-recording
+  name: "Session Recording"
+- id: encryption
+  name: "Encryption"
+- id: microservices
+  name: "Microservices"
+- id: multi-backend
+  name: "Multi-Backend"
+- id: verification
+  name: "Verification"
+- id: git-history
+  name: "Git History"
+- id: baseline
+  name: "Baseline"
+- id: aws-ssm
+  name: "AWS SSM"
+- id: kms
+  name: "KMS"
+- id: confidential-computing
+  name: "Confidential Computing"

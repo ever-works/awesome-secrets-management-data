@@ -1,0 +1,13 @@
+name: "Azure Key Vault"
+description: "Azure Key Vault is a cloud service for safeguarding cryptographic keys, certificates, and secrets used by Azure applications. It provides FIPS 140-2 Level 2 validated HSMs and integrates with Azure AD. Billing is based on operations and storage."
+source_url: "https://azure.microsoft.com/en-us/services/key-vault"
+category: "Cloud Secret Stores & KMS"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "hsm"
+  - "certificates"
+icon_url: "https://icons.duckduckgo.com/ip3/azure.microsoft.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://azure.microsoft.com/en-us/services/key-vault>\n"
+updated_at: "2026-11-21 05:06"

@@ -1,0 +1,13 @@
+name: "HashiCorp Vault"
+description: "HashiCorp Vault is an open-source secrets management platform for dynamic secrets, encryption, and access control. It supports self-hosted deployment and offers an enterprise edition with advanced features. Widely used for infrastructure secrets across clouds."
+source_url: "https://www.vaultproject.io/"
+category: "Secrets Managers"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "enterprise"
+  - "api"
+  - "dynamic-secrets"
+icon_url: "https://icons.duckduckgo.com/ip3/www.vaultproject.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.vaultproject.io/>\n- Repository: <https://github.com/hashicorp/vault>\n\nLicense: MPL-2.0.\n"
+updated_at: "2026-11-21 05:06"

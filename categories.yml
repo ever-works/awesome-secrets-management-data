@@ -1,0 +1,12 @@
+- id: secrets-managers
+  name: "Secrets Managers"
+- id: cloud-secret-stores-and-kms
+  name: "Cloud Secret Stores & KMS"
+- id: open-source-vaults
+  name: "Open-Source Vaults"
+- id: secret-scanning
+  name: "Secret Scanning"
+- id: kubernetes-secrets
+  name: "Kubernetes Secrets"
+- id: developer-env-tools
+  name: "Developer .env Tools"
