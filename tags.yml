@@ -1,64 +1,124 @@
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: api
-  name: "API"
+  name: API
 - id: dynamic-secrets
-  name: "Dynamic Secrets"
+  name: Dynamic Secrets
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: gitops
-  name: "GitOps"
+  name: Gitops
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: ci-cd
-  name: "CI/CD"
+  name: CI/CD
 - id: kubernetes
-  name: "Kubernetes"
+  name: Kubernetes
 - id: rotation
-  name: "Rotation"
+  name: Rotation
 - id: hsm
-  name: "HSM"
+  name: HSM
 - id: certificates
-  name: "Certificates"
+  name: Certificates
 - id: replication
-  name: "Replication"
+  name: Replication
 - id: audit-logging
-  name: "Audit Logging"
+  name: Audit Logging
 - id: zero-knowledge
-  name: "Zero-Knowledge"
+  name: Zero Knowledge
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI-Powered
 - id: pre-commit
-  name: "Pre-commit"
+  name: Pre-commit
 - id: github-actions
-  name: "GitHub Actions"
+  name: GitHub Actions
 - id: policy-as-code
-  name: "Policy-as-Code"
+  name: Policy-as-Code
 - id: privileged-access
-  name: "Privileged Access"
+  name: Privileged Access
 - id: session-recording
-  name: "Session Recording"
+  name: Session Recording
 - id: encryption
-  name: "Encryption"
+  name: Encryption
 - id: microservices
-  name: "Microservices"
+  name: Microservices
 - id: multi-backend
-  name: "Multi-Backend"
+  name: Multi-Backend
 - id: verification
-  name: "Verification"
+  name: Verification
 - id: git-history
-  name: "Git History"
+  name: Git History
 - id: baseline
-  name: "Baseline"
+  name: Baseline
 - id: aws-ssm
-  name: "AWS SSM"
+  name: AWS SSM
 - id: kms
-  name: "KMS"
+  name: KMS
 - id: confidential-computing
-  name: "Confidential Computing"
+  name: Confidential Computing
+- id: commercial
+  name: Commercial
+- id: cloud
+  name: Cloud
+- id: developer-experience
+  name: Developer Experience
+- id: service-discovery
+  name: Service Discovery
+- id: data-loss-prevention
+  name: Data Loss Prevention
+- id: key-management
+  name: Key Management
+- id: enterprise-security
+  name: Enterprise Security
+- id: audit-trail
+  name: Audit Trail
+- id: helm
+  name: Helm
+- id: access-control
+  name: Access Control
+- id: fedramp
+  name: FedRAMP
+- id: pam
+  name: PAM
+- id: multi-factor-authentication
+  name: Multi Factor Authentication
+- id: real-time-monitoring
+  name: Real Time Monitoring
+- id: asset-tracking
+  name: Asset Tracking
+- id: cloud-based
+  name: Cloud Based
+- id: key-tracking
+  name: Key Tracking
+- id: small-business
+  name: Small Business
+- id: iac
+  name: IaC
+- id: environments-as-code
+  name: Environments As Code
+- id: oidc
+  name: OIDC
+- id: secret-detection
+  name: Secret Detection
+- id: database-security
+  name: Database Security
+- id: spiffe
+  name: SPIFFE
+- id: zero-standing-credentials
+  name: Zero Standing Credentials
+- id: nhi
+  name: NHI
+- id: tokenization
+  name: Tokenization
+- id: pci-compliance
+  name: Pci Compliance
+- id: hashicorp-vault
+  name: HashiCorp Vault
+- id: saas
+  name: Saas

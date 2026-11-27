@@ -1,8 +1,73 @@
-- url: "https://openalternative.co/categories/security-privacy/secrets-management"
-  title: "OpenAlternative — Secrets Management"
-- url: "https://www.softwaresuggest.com/key-management-software"
-  title: "SoftwareSuggest — Key Management Software"
-- url: "https://github.com/topics/secrets-management"
-  title: "GitHub topic — `secrets-management` (1,892 repos)"
-- url: "https://github.com/topics/secret-scanning"
-  title: "GitHub topic — `secret-scanning` (968 repos)"
+- url: https://blog.gitguardian.com/top-secrets-management-tools
+  normalized_url: https://blog.gitguardian.com/top-secrets-management-tools
+  first_seen_at: 2026-11-27T03:03:21.697Z
+  last_attempted_at: 2026-11-27T03:03:21.697Z
+  last_success_at: 2026-11-27T03:03:21.697Z
+  status: success
+  items_created: 5
+  pipeline: agent-pipeline
+- url: https://github.com/topics/secret-scanning
+  normalized_url: https://github.com/topics/secret-scanning
+  first_seen_at: 2026-11-27T03:01:32.864Z
+  last_attempted_at: 2026-11-27T03:01:32.864Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/secret-scanning"
+- url: https://github.com/topics/secrets-management
+  normalized_url: https://github.com/topics/secrets-management
+  first_seen_at: 2026-11-27T02:58:51.637Z
+  last_attempted_at: 2026-11-27T02:58:51.637Z
+  last_success_at: 2026-11-27T02:58:51.637Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://infisical.com
+  normalized_url: https://infisical.com/
+  first_seen_at: 2026-11-27T03:07:55.757Z
+  last_attempted_at: 2026-11-27T03:07:55.757Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://infisical.com"
+- url: https://openalternative.co/categories/security-privacy/secrets-management
+  normalized_url: https://openalternative.co/categories/security-privacy/secrets-management
+  first_seen_at: 2026-11-27T02:48:32.037Z
+  last_attempted_at: 2026-11-27T02:48:32.037Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://openalternative.co/categories/security-privacy/secrets-management"
+- url: https://securityboulevard.com/2026/05/top-16-secrets-management-tools-and-platforms-for-2026-compared
+  normalized_url: https://securityboulevard.com/2026/05/top-16-secrets-management-tools-and-platforms-for-2026-compared
+  first_seen_at: 2026-11-27T03:07:31.185Z
+  last_attempted_at: 2026-11-27T03:07:31.185Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://securityboulevard.com/2026/05/top-16-secrets-management-tools-and-p\
+    latforms-for-2026-compared"
+- url: https://wetheflywheel.com/en/comparisons/hashicorp-vault-alternatives
+  normalized_url: https://wetheflywheel.com/en/comparisons/hashicorp-vault-alternatives
+  first_seen_at: 2026-11-27T03:04:18.107Z
+  last_attempted_at: 2026-11-27T03:04:18.107Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://wetheflywheel.com/en/comparisons/hashicorp-vault-alternatives"
+- url: https://www.softwaresuggest.com/key-management-software
+  normalized_url: https://www.softwaresuggest.com/key-management-software
+  first_seen_at: 2026-11-27T02:57:09.094Z
+  last_attempted_at: 2026-11-27T02:57:09.094Z
+  last_success_at: 2026-11-27T02:57:09.094Z
+  status: success
+  items_created: 15
+  pipeline: agent-pipeline
