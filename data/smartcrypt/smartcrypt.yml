@@ -1,0 +1,58 @@
+name: Smartcrypt
+description: Smartcrypt by PKWARE is an end-to-end key management and data
+  security platform offering encryption, file sharing, incident response, threat
+  detection, email security, mobile security, and network security capabilities.
+  It is tailored for startups, SMBs, mid-market, and enterprises. Pricing is not
+  publicly listed; contact the vendor for details.
+source_url: https://www.pkware.com
+category: Secrets Managers
+tags:
+  - encryption
+  - enterprise
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Smartcrypt is PKWARE's end-to-end key management software providing security
+  on a single platform.
+
+
+  ## Features
+
+
+  - Incident Response
+
+  - File Sharing
+
+  - Cloud Security
+
+  - Threat Detection
+
+  - Email Security
+
+  - Data Encryption
+
+  - Mobile Security
+
+  - Network Security
+
+  - Master Key Management
+
+  - Access Controls
+
+
+  ## Deployment
+
+
+  Suitable for StartUps, SMBs, Mid-Market, and Enterprises.
+
+
+  ## Pricing
+
+
+  Pricing is not publicly listed. Contact PKWARE for a quote.
+brand: PKWARE
+images: []
+updated_at: 2026-11-27 03:10

@@ -1,0 +1,79 @@
+name: Teleport Machine ID
+description: Teleport Machine ID eliminates static credentials instead of
+  storing them securely. Each CI/CD job or workload receives a short-lived X.509
+  certificate or JWT-SVID (SPIFFE-compatible) at runtime that expires
+  automatically when the job completes. Native integrations cover GitHub
+  Actions, GitLab CI, CircleCI, Jenkins, Azure DevOps, and Spacelift. For cloud
+  authentication, workloads use short-lived JWTs to authenticate to AWS, GCP,
+  and Azure without static credentials.
+source_url: https://goteleport.com/machine-id/
+category: Kubernetes Secrets
+tags:
+  - Open Source
+  - Commercial
+  - SPIFFE
+  - Zero Standing Credentials
+  - NHI
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Teleport Machine ID is purpose-built for teams adopting
+  zero-standing-credentials patterns. Rather than storing secrets securely, it
+  eliminates static credentials by issuing short-lived identities at runtime.
+
+
+  ## Key Features
+
+
+  - **Short-lived X.509 certificates or JWT-SVID (SPIFFE-compatible)** issued at
+  runtime
+
+  - **Automatic expiration**: Credentials expire when the job completes
+
+  - **No credential rotation needed**: Credentials never rotate or leak
+
+  - **Native CI/CD integrations**: GitHub Actions, GitLab CI, CircleCI, Jenkins,
+  Azure DevOps, Spacelift
+
+  - **Cloud authentication**: Short-lived JWTs to authenticate to AWS, GCP, and
+  Azure without static credentials
+
+  - **SPIFFE/X.509 identities**: Enable mutual TLS across services and trust
+  domains
+
+  - **AI agent support**: Agents receive scoped, ephemeral identities rather
+  than broad API keys
+
+
+  ## Pricing Model
+
+
+  Apache 2.0 / Commercial (open source core with commercial offerings).
+
+
+  ## Deployment
+
+
+  Self-hosted and cloud options available.
+
+
+  ## Integrations
+
+
+  - GitHub Actions
+
+  - GitLab CI
+
+  - CircleCI
+
+  - Jenkins
+
+  - Azure DevOps
+
+  - Spacelift
+
+  - AWS, GCP, Azure (via short-lived JWTs)
+brand: Teleport
+updated_at: 2026-11-27 03:10

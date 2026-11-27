@@ -1,0 +1,54 @@
+name: KeyBank Touch
+description: KeyBank Touch by Morse Watchmans is key management software
+  featuring key revocation, key generation, tokenization, disaster recovery,
+  multi-factor authentication, key storage, secure backup, and real-time
+  monitoring. It is suitable for startups, SMBs, mid-market, and enterprises.
+  Pricing is not publicly listed; contact the vendor for details.
+source_url: https://www.morsewatchmans.com
+category: Secrets Managers
+tags:
+  - enterprise
+  - multi-factor-authentication
+  - real-time-monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  KeyBank Touch is key management software by Morse Watchmans designed for key
+  lifecycle management and security.
+
+
+  ## Features
+
+
+  - Key Revocation
+
+  - Key Generation
+
+  - Tokenization
+
+  - Disaster Recovery
+
+  - Multi Factor Authentication
+
+  - Key Storage
+
+  - Secure Backup
+
+  - Real Time Monitoring
+
+
+  ## Deployment
+
+
+  Suitable for StartUps, SMBs, Mid-Market, and Enterprises.
+
+
+  ## Pricing
+
+
+  Pricing is not publicly listed. Contact Morse Watchmans for details.
+brand: Morse Watchmans
+images: []
+updated_at: 2026-11-27 03:10

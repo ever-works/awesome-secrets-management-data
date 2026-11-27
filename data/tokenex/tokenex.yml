@@ -1,0 +1,61 @@
+name: TokenEx
+description: TokenEx is a cloud-based tokenization platform that replaces
+  sensitive payment and personal data with tokens to reduce PCI compliance scope
+  and minimize fraud risk. It provides a token vault, data encryption, access
+  control, audit logs, and compliance reporting to help organizations secure
+  sensitive data and streamline payment processor management. TokenEx is a paid
+  commercial service with API-based integration.
+source_url: https://tokenex.com
+category: Cloud Secret Stores & KMS
+tags:
+  - paid
+  - api
+  - tokenization
+  - pci-compliance
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TokenEx is a cloud-based tokenization and data security platform that replaces
+  sensitive payment data with tokens, reducing PCI compliance scope by up to
+  90%. It helps organizations minimize fraud risk, improve authorization rates,
+  and streamline processor management while keeping sensitive data out of their
+  environment.
+
+
+  ## Key Features
+
+
+  - User authentication
+
+  - Audit logs
+
+  - Data encryption
+
+  - Access control
+
+  - Data integrity
+
+  - Compliance reporting
+
+  - Privacy impact assessment
+
+  - Token vault
+
+
+  ## Deployment
+
+
+  TokenEx is a cloud-delivered SaaS platform accessed via APIs.
+
+
+  ## Pricing
+
+
+  Paid commercial service; pricing is based on usage and volume. Contact TokenEx
+  for pricing details.
+brand: TokenEx
+brand_logo_url: https://tokenex.com/wp-content/uploads/2020/07/TokenEx-Logo-Horizontal-Color.svg
+images: []
+updated_at: 2026-11-27 03:10

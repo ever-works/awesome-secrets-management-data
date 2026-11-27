@@ -1,0 +1,29 @@
+## Overview
+
+Keeper Secrets Manager is the DevOps-focused layer of the KeeperPAM platform, built for teams in regulated industries including federal and defense-adjacent organizations. It combines PAM capabilities with secrets management.
+
+## Key Features
+
+- **FedRAMP High and GovRAMP High authorization**
+- **SOC 2 Type II compliance**
+- **ISO 27001/27017/27018 certifications**
+- **Zero-knowledge architecture**: All encryption and decryption happens client-side
+- **Enterprise SSO and SCIM support** for provisioning
+- **Native integrations**: GitHub Actions, GitLab CI, Jenkins, and major cloud platforms
+- **Unified PAM platform**: Combines PAM capabilities and secrets management
+
+## Pricing Model
+
+Commercial product.
+
+## Deployment
+
+Cloud-hosted (SaaS).
+
+## Integrations
+
+- GitHub Actions
+- GitLab CI
+- Jenkins
+- Major cloud platforms
+- Enterprise SSO and SCIM

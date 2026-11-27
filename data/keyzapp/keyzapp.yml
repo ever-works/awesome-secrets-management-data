@@ -1,0 +1,50 @@
+name: Keyzapp
+description: Keyzapp is a key management software designed for security
+  integration. It offers audit trail, encryption, lock management, scheduling,
+  data security, and master key management options for businesses. The product
+  is tailored for startups, SMBs, mid-market, and enterprises.
+source_url: https://www.keyzapp.com
+category: Secrets Managers
+tags:
+  - key management
+  - encryption
+  - cloud-based
+featured: false
+markdown: |
+  ## Overview
+
+  Keyzapp is a key management software designed for security integration.
+
+  ## Features
+
+  - Key issuance
+  - Key tracking
+  - Key auditing
+  - Key return
+  - Cloud-based platform
+  - Role-based permissions
+  - Notifications and alerts
+  - Key reservation
+  - Audit trail
+  - Encryption
+  - Lock management
+  - Scheduling
+  - Data security
+  - Master key management
+
+  ## Target Segments
+
+  - Startups
+  - SMBs
+  - Mid-market
+  - Enterprises
+
+  ## Pricing
+
+  Pricing information not specified in the source.
+
+  ## Deployment
+
+  Cloud-based platform.
+brand: Keyzapp
+updated_at: 2026-11-27 03:10

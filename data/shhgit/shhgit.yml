@@ -1,0 +1,33 @@
+name: shhgit
+description: shhgit is an open-source secrets detection tool that finds secrets
+  and passwords in GitHub, GitLab, and Bitbucket repositories. It scans commit
+  history and file contents to detect hardcoded credentials before they are
+  exposed. Licensed under MIT.
+source_url: https://github.com/eth0izzle/shhgit
+category: Secret Scanning
+tags:
+  - open-source
+  - free-plan
+  - api
+  - secret-detection
+markdown: |
+  ## Pricing
+
+  Open Source.
+
+  ## Links
+
+  - Repository: <https://github.com/eth0izzle/shhgit>
+
+  License: MIT.
+
+  ## Features
+
+  - Secrets detection for GitHub, GitLab, and Bitbucket repositories
+  - Scans commit history and file contents
+  - Detects hardcoded credentials
+
+  ## Deployment
+
+  Self-hosted / CLI.
+updated_at: 2026-11-27 03:10

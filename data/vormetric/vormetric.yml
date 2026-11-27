@@ -1,0 +1,66 @@
+name: Vormetric
+description: Vormetric is a data security platform, now part of Thales, that
+  provides transparent data encryption, database encryption, tokenization,
+  access control, and key management for on-premises and cloud environments. It
+  helps enterprises protect sensitive data, enforce security policies, and meet
+  compliance requirements while maintaining high availability. Vormetric is a
+  commercial, paid enterprise product.
+source_url: https://www.thalesgroup.com
+category: Cloud Secret Stores & KMS
+tags:
+  - paid
+  - enterprise
+  - encryption
+  - key-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Vormetric is a data security and encryption platform originally developed by
+  Vormetric, now part of Thales following its acquisition. It provides
+  data-at-rest encryption, tokenization, and access controls to protect
+  sensitive information across databases, file systems, big data platforms, and
+  cloud environments.
+
+
+  ## Key Features
+
+
+  - Database encryption
+
+  - Transparent data encryption
+
+  - High availability
+
+  - Audit logging
+
+  - Policy management
+
+  - Data masking
+
+  - Cloud security
+
+  - Access control
+
+  - Tokenization
+
+  - Key management
+
+
+  ## Deployment
+
+
+  Vormetric supports deployment on-premises and in cloud environments,
+  integrated with Thales key management and CipherTrust Data Security Platform
+  capabilities.
+
+
+  ## Pricing
+
+
+  Commercial enterprise pricing; contact Thales for quotes.
+brand: Thales
+brand_logo_url: https://www.thalesgroup.com/sites/default/files/2024-01/thales-logo.svg
+images: []
+updated_at: 2026-11-27 03:10

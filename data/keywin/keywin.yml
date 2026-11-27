@@ -1,0 +1,44 @@
+name: KeyWin
+description: KeyWin is an enterprise-level key management software offering
+  automatic access controls, whitelisting/blacklisting, master key management,
+  overdue tracking, encryption, and audit trail capabilities. It is suitable for
+  startups, SMBs, mid-market, and enterprises. Pricing is not publicly listed;
+  contact the vendor for details.
+source_url: https://www.keywin.com
+category: Secrets Managers
+tags:
+  - enterprise
+  - audit-trail
+  - paid
+featured: false
+markdown: |-
+  ## Overview
+
+  KeyWin is key management software for a complete enterprise security solution.
+
+  ## Features
+
+  - Reporting
+  - Mobile Access
+  - Key Duplication Prevention
+  - Key Reservation
+  - Audit Trail
+  - Access Control
+  - Key Tracking
+  - Customizable Permissions
+  - Automatic Access Controls
+  - Whitelisting/Blacklisting
+  - Master Key Management
+  - Overdue Tracking
+  - Encryption
+
+  ## Deployment
+
+  Suitable for StartUps, SMBs, Mid-Market, and Enterprises.
+
+  ## Pricing
+
+  Pricing is not publicly listed. Contact the vendor for details.
+brand: KeyWin
+images: []
+updated_at: 2026-11-27 03:10
